@@ -1,0 +1,40 @@
+2023-11-14 18:19:21.017[main] INFO  org.example.Main - Executing subtraction for2 and 2. Result: 0
+
+2023-11-14 18:19:21.019[main] INFO  org.example.Main - Executing addition for2 and 2. Result: 4
+
+2023-11-14 18:19:21.019[main] INFO  org.example.Main - Executing subtraction for2 and 2. Result : 4
+
+2023-11-14 18:19:21.019[main] INFO  org.example.Main - Executing subtraction for2 and 5. Result: 2
+
+2023-11-14 18:19:27.531[main] INFO  org.example.Main - Executing subtraction for2 and 2. Result: 0
+
+2023-11-14 18:19:27.532[main] INFO  org.example.Main - Executing addition for2 and 2. Result: 4
+
+2023-11-14 18:19:27.533[main] INFO  org.example.Main - Executing subtraction for2 and 2. Result : 4
+
+2023-11-14 18:19:27.533[main] INFO  org.example.Main - Executing subtraction for2 and 5. Result: 2
+
+2023-11-14 18:20:33.382[main] INFO  org.example.Main - Executing subtraction for2 and 2. Result: 0
+
+2023-11-14 18:20:33.384[main] INFO  org.example.Main - Executing addition for2 and 2. Result: 4
+
+2023-11-14 18:20:33.384[main] INFO  org.example.Main - Executing multiplication for2 and 2. Result : 4
+
+2023-11-14 18:20:33.385[main] INFO  org.example.Main - Executing percentile for2 and 5. Result: 2
+
+2024-09-23 01:01:14.183[main] INFO  org.example.Main - Executing subtraction for2 and 2. Result: 0
+
+2024-09-23 01:01:14.184[main] INFO  org.example.Main - Executing addition for2 and 2. Result: 4
+
+2024-09-23 01:01:14.184[main] INFO  org.example.Main - Executing multiplication for2 and 2. Result : 4
+
+2024-09-23 01:01:14.185[main] INFO  org.example.Main - Executing percentile for2 and 5. Result: 2
+
+2024-09-23 01:04:02.721[main] INFO  org.example.Main - Executing subtraction for2 and 2. Result: 0
+
+2024-09-23 01:04:02.722[main] INFO  org.example.Main - Executing addition for2 and 2. Result: 4
+
+2024-09-23 01:04:02.723[main] INFO  org.example.Main - Executing multiplication for2 and 2. Result : 4
+
+2024-09-23 01:04:02.723[main] INFO  org.example.Main - Executing percentile for2 and 5. Result: 2
+
